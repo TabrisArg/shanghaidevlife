@@ -9,9 +9,9 @@ highlighter:         pygments
 #timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         Shanghai Dev Life
-title:               site title
-tagline:             'tagline'
-description:         'description'
+title:               Shanghai Dev Life
+tagline:             'coding and imploding'
+description:         'this is a description'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/shanghaidevlife/'
@@ -20,7 +20,7 @@ baseurl_featured_img: '/shanghaidevlife/assets/images/hero/'
 baseurl_featured_thumbnail: '/shanghaidevlife/assets/images/thumbnail/'
 baseurl_javascripts: '/shanghaidevlife/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+disqus:              shanghaidevlife # get it on https://disqus.com/admin/
 
 author:
   name:           	 Cesar
