@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "This is just a test"
-date:   2019-01-01 01:00:00
+title:  "This is just another test"
+date:   2019-01-02 01:00:00
 last_modified_at:  2019-01-02 01:00:00
-excerpt: "Where does the excerpt show up?"
-categories: [testing, fooling]
+excerpt: "whatever exerpt?"
+categories: [testing, trolling]
 tags:  test
 image:
   feature: test-landscape.jpg

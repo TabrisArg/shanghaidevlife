@@ -4,7 +4,8 @@ markdown:            redcarpet
 highlighter:         pygments
 
 
-
+data:
+    name:           Shanghai Dev Life
 # Setup
 #timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
@@ -19,16 +20,16 @@ baseurl_posts_img:   '/shanghaidevlife/assets/images/posts/'
 baseurl_featured_img: '/shanghaidevlife/assets/images/hero/'
 baseurl_featured_thumbnail: '/shanghaidevlife/assets/images/thumbnail/'
 baseurl_javascripts: '/shanghaidevlife/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+icon:                /assets/img/icon.png
 disqus:              shanghaidevlife # get it on https://disqus.com/admin/
 
 author:
   name:           	 Cesar
-  url:            	 your site url
+  url:            	 https://tabrisarg.github.io/shanghaidevlife/
   facebook:          username
   twitter:           username
   google_plus:       username
-  linkedin:          username
+  linkedin:          https://www.linkedin.com/in/cesar-gozurreta/
   dribbble:          username
   pinterest:         username
   kiva:              username
