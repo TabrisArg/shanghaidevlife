@@ -14,7 +14,7 @@ title:               Shanghai Dev Life
 tagline:             'coding and imploding'
 description:         'this is a description'
 url:                 https://tabrisarg.github.io/shanghaidevlife/
-rss:                 rss feed url
+rss:                 https://tabrisarg.github.io/shanghaidevlife/
 baseurl:             '/shanghaidevlife/'
 baseurl_posts_img:   '/shanghaidevlife/assets/images/posts/'
 baseurl_featured_img: '/shanghaidevlife/assets/images/hero/'
