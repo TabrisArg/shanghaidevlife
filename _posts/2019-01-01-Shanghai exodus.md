@@ -7,7 +7,7 @@ excerpt: "You'll miss these, I know"
 categories: [shanghai, lifestyle]
 tags:  [shanghai, lifestyle, exodus, missing, drinking, shopping, malls, divercity]
 image:
-  feature: test-landscape.jpg
+  feature: exodus.png
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

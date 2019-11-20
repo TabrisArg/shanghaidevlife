@@ -8,7 +8,7 @@ data:
     name:           Shanghai Dev Life
 # Setup
 #timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+locale:              en_us # eg. en_us
 name:				         Shanghai Dev Life
 title:               Shanghai Dev Life
 tagline:             'coding and imploding'
@@ -27,7 +27,7 @@ author:
   name:           	 Cesar
   url:            	 https://tabrisarg.github.io/shanghaidevlife/
   facebook:          username
-  twitter:           username
+  twitter:           TabrisX
   google_plus:       username
   linkedin:          https://www.linkedin.com/in/cesar-gozurreta/
   dribbble:          username

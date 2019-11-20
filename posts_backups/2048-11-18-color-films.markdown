@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Color films"
-date:   1932-11-18 01:00:00
-date:   1932-11-18 01:00:00
+date:   2048-11-18 01:00:00
+date:   2048-11-18 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
